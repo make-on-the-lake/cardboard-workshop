@@ -51,7 +51,7 @@ Save the script (**File** -> **Save**) and go back to Unity. Unity should pick u
 
 ![](images/032_move_around.gif)
 
-Now let's only move around if the button on the Cardboard Viewer is held down. Re-open the RigidbodyFirstPersonController.cs script. At the top, under the class declaration, create a new field that determines if the controller is currently walking forward:
+Now let's only move around if the button on the Cardboard Viewer is pressed. Re-open the RigidbodyFirstPersonController.cs script. At the top, under the class declaration, create a new field that determines if the controller is currently walking forward:
 
 ```csharp
 ...

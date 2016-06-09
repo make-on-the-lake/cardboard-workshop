@@ -1,4 +1,4 @@
-# Part 4 - Adding Interaction
+m Part 4 - Adding Interaction
 
 ## The Ball
 
@@ -44,4 +44,6 @@ Press play again. Go ahead and walk right into the ball:
 
 ![](images/046_bouncing_the_ball.gif)
 
+## Wrapping Up
 
+That's the end of this exercise! You can build on your device and play with bouncing the ball around. From here, you can add more objects, build up your terrain into an obstacle course, or try your hand at scripting more advanced behaviors.

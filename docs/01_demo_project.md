@@ -1,4 +1,4 @@
-# Part 1 - Getting Started (Demo Project)
+# Part 1 - Getting Started with the Demo
 
 ## Prerequisites
 
